@@ -7249,4 +7249,180 @@ export const coworkingSpaces: CoworkingSpace[] = [
       contact: "8400292929/9632571010"
     }
   }, 
+{
+    "name": "Archana Sarda",
+    "location": "Indiranagar",
+    "category": "Sub premium (6k-12k)",
+    "price": "8000",
+    "coordinates": [12.9716, 77.6412],
+    "poc": {
+      "name": "Archana",
+      "contact": "9845044593"
+    }
+  },
+  {
+    "name": "Kaizen Workspace",
+    "location": "Kalyan Nagar",
+    "category": "Sub premium (6k-12k)",
+    "price": "7000",
+    "coordinates": [13.0356, 77.6245],
+    "poc": {
+      "name": "Pratik",
+      "contact": "6206447702"
+    }
+  },
+  {
+    "name": "Serene spaces",
+    "location": "Whitefield",
+    "category": "",
+    "price": "",
+    "coordinates": [12.9716, 77.7499],
+    "poc": {
+      "name": "Meenu",
+      "contact": "8867738197"
+    }
+  },
+  {
+    "name": "Corporat Edge",
+    "location": "UB City",
+    "category": "",
+    "price": "45000",
+    "coordinates": [12.9716, 77.5902],
+    "poc": {
+      "name": "Sakshi/Tushar",
+      "contact": "9742471622/7015231142"
+    }
+  },
+  {
+    "name": "Clayworks Residency",
+    "location": "Residency Road",
+    "category": "",
+    "price": "",
+    "coordinates": [12.9716, 77.6101],
+    "poc": {
+      "name": "Tushar/Deen Dayal",
+      "contact": "8400292929/9632571010"
+    }
+  },
+  {
+    "name": "Clayworks 371",
+    "location": "Koramangala",
+    "category": "",
+    "price": "",
+    "coordinates": [12.9344, 77.6101],
+    "poc": {
+      "name": "Tushar/Deen Dayal",
+      "contact": "8400292929/9632571010"
+    }
+  },
+  {
+    "name": "Clayworks 4B",
+    "location": "Koramangala",
+    "category": "",
+    "price": "",
+    "coordinates": [12.9344, 77.6101],
+    "poc": {
+      "name": "Tushar/Deen Dayal",
+      "contact": "8400292929/9632571010"
+    }
+  },
+  {
+    "name": "DHI Innovations",
+    "location": "Arekere Gate",
+    "category": "Sub premium (6k-12k)",
+    "price": "10000",
+    "coordinates": [12.9344, 77.6147],
+    "poc": {
+      "name": "Mahesh",
+      "contact": "9686455724"
+    }
+  },
+  {
+    "name": "Lamora coworking",
+    "location": "Basavanagudi",
+    "category": "Sub premium (6k-12k)",
+    "price": "9000",
+    "coordinates": [12.9344, 77.5778],
+    "poc": {
+      "name": "Samay",
+      "contact": "9164994525"
+    }
+  },
+  {
+    "name": "Proworks",
+    "location": "Indiranagar",
+    "category": "Sub premium (6k-12k)",
+    "price": "9000",
+    "coordinates": [12.9716, 77.6412],
+    "poc": {
+      "name": "Bhuvana",
+      "contact": "8971017776"
+    }
+  },
+  {
+    "name": "Evolve SNN Raj Serenity",
+    "location": "Yelenahalli",
+    "category": "",
+    "price": "",
+    "coordinates": [12.9344, 77.561],
+    "poc": {
+      "name": "Brijesh/Nitin",
+      "contact": "9880110193/9108447829"
+    }
+  },
+  {
+    "name": "Vayuhu Coworking",
+    "location": "Sanjaynagar",
+    "category": "Budgeted(6k or less)",
+    "price": "3500",
+    "coordinates": [13.0356, 77.6245],
+    "poc": {
+      "name": "Thanuja",
+      "contact": "7348857574"
+    }
+  },
+  {
+    "name": "Blooming Coworking",
+    "location": "Yeshwanthpur",
+    "category": "Sub premium (6k-12k)",
+    "price": "9000",
+    "coordinates": [13.0356, 77.555],
+    "poc": {
+      "name": "Chaitra",
+      "contact": "9035037764"
+    }
+  },
+  {
+    "name": "Blooming Coworking",
+    "location": "Soap factory",
+    "category": "Sub premium (6k-12k)",
+    "price": "9000",
+    "coordinates": [13.0356, 77.6245],
+    "poc": {
+      "name": "Chaitra",
+      "contact": "9035037764"
+    }
+  },
+  {
+    "name": "Blooming Coworking",
+    "location": "Rajajinagar",
+    "category": "Sub premium (6k-12k)",
+    "price": "7500",
+    "coordinates": [12.9716, 77.5902],
+    "poc": {
+      "name": "Chaitra",
+      "contact": "9035037764"
+    }
+  },
+  {
+    "name": "Levagrow LLB",
+    "location": "Jalahalli",
+    "category": "Sub premium (6k-12k)",
+    "price": "8500",
+    "coordinates": [13.0356, 77.6245],
+    "poc": {
+      "name": "Bipin",
+      "contact": "8310953164"
+    }
+  },
 ];
