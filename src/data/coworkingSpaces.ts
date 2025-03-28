@@ -7205,5 +7205,48 @@ export const coworkingSpaces: CoworkingSpace[] = [
       contact: "9100080014"
     }
   },
-  
+ {
+    name: "Ecradle coworking",
+    location: "Koramangala",
+    category: "",
+    price: "",
+    coordinates: [12.9352, 77.6245],
+    poc: {
+      name: "Tisha",
+      contact: "9380082424"
+    }
+  },
+  {
+    name: "2gethr Coworking",
+    location: "Koramangala",
+    category: "",
+    price: "",
+    coordinates: [12.9352, 77.6245],
+    poc: {
+      name: "Anish",
+      contact: "9164444024"
+    }
+  },
+  {
+    name: "Mayfair",
+    location: "Koramangala",
+    category: "",
+    price: "6500",
+    coordinates: [12.9352, 77.6245],
+    poc: {
+      name: "Swetha",
+      contact: "8892146201"
+    }
+  },
+  {
+    name: "Clayworks Residency",
+    location: "Residency Road",
+    category: "",
+    price: "",
+    coordinates: [12.9719, 77.5996],
+    poc: {
+      name: "Tushar/Deen Dayal",
+      contact: "8400292929/9632571010"
+    }
+  }, 
 ];
